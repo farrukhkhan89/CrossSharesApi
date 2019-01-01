@@ -1,0 +1,11 @@
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\bin\Debug\netcoreapp2.0\XOProject.Repository.deps.json
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\bin\Debug\netcoreapp2.0\XOProject.Repository.runtimeconfig.json
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\bin\Debug\netcoreapp2.0\XOProject.Repository.runtimeconfig.dev.json
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\bin\Debug\netcoreapp2.0\XOProject.Repository.dll
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\bin\Debug\netcoreapp2.0\XOProject.Repository.pdb
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.csprojAssemblyReference.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.AssemblyInfoInputs.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.AssemblyInfo.cs
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.dll
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\XOProject.Repository\obj\Debug\netcoreapp2.0\XOProject.Repository.pdb

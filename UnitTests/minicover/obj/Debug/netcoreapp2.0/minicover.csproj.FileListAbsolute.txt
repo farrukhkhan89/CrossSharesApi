@@ -1,0 +1,9 @@
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.deps.json
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.dll
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.pdb
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.csprojAssemblyReference.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.csproj.CoreCompileInputs.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.AssemblyInfoInputs.cache
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.AssemblyInfo.cs
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.dll
+C:\Users\muhammadfarrukh.khan\Desktop\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.pdb
